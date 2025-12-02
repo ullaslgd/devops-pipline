@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node hello.js",
+    "test" : "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ullaslgd/devops-pipline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ullaslgd/devops-pipline/issues"
+  },
+  "homepage": "https://github.com/ullaslgd/devops-pipline#readme"
+}
